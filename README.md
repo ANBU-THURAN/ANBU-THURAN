@@ -1,7 +1,4 @@
 Hi there, I'm **Anbu Thuran**👋
-<p align="center">
-  <img src="https://github.com/ANBU-THURAN/blob/main/images/profile-banner.png" alt="Profile banner">
-</p>
 I'm a 3rd year Computer Science and Engineering Student. I love coding, solving problems, and I'm passionate about learning new technologies.
 
 ### 📫 How to reach me
@@ -19,7 +16,7 @@ I'm currently learning MERN Stack, and I'm excited to apply it to creating new p
   <img src="https://github-readme-stats.vercel.app/api?username=ANBU-THURAN&show_icons=true&theme=radical" alt="GitHub stats">
 </p>
 <br/>
-<b>🎨Skills <b/>
+<b style="font-weight:40">🎨Skills <b/> <br/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
