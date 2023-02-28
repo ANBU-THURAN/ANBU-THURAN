@@ -1,3 +1,8 @@
+<style>
+  *{
+    background-color : black;
+  }
+</style>
 Hi there, I'm **Anbu Thuran**👋
 I'm a 3rd year Computer Science and Engineering Student. I love coding, solving problems, and I'm passionate about learning new technologies.
 
