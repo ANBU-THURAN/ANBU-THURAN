@@ -1,8 +1,4 @@
-<style>
-  *{
-    background-color : black;
-  }
-</style>
+<div style="background-color:black;">
 Hi there, I'm **Anbu Thuran**👋
 I'm a 3rd year Computer Science and Engineering Student. I love coding, solving problems, and I'm passionate about learning new technologies.
 
@@ -38,3 +34,4 @@ I'm currently learning MERN Stack, and I'm excited to apply it to creating new p
 <br />
 <br />
 Thanks for visiting my profile! Let's connect and collaborate on something amazing.
+ </div>
