@@ -12,7 +12,7 @@ I'm currently learning MERN Stack, and I'm excited to apply it to creating new p
 ### 💻 Projects
 --> Visit my repositories
 
-### 📈 GitHub Stats
+### 📈 Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ANBU-THURAN&show_icons=true&theme=radical" alt="GitHub stats">
 </p>
