@@ -1,6 +1,6 @@
 <div style="color:black;">
   Hi there, I'm <b>Anbu Thuran</b>👋
-I'm a 3rd year Computer Science and Engineering Student. I love coding, solving problems, and I'm passionate about learning new technologies.
+I'm a Computer Science and Engineering Graduate. I love coding, solving problems, and I'm passionate about learning new technologies.
 
 ### 📫 How to reach me
 Email: tanbumails@gmail.com <br>
