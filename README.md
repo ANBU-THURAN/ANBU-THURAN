@@ -6,9 +6,6 @@ I'm a Computer Science and Engineering Graduate. I love coding, solving problems
 Email: tanbumails@gmail.com <br>
 LinkedIn: www.linkedin.com/in/anbu-thuran
 
-### 🌱 What I'm currently learning
-I'm currently learning MERN Stack, and I'm excited to apply it to creating new projects
-
 ### 💻 Projects
 --> Visit my repositories
 
