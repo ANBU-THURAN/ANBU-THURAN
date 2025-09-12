@@ -3,7 +3,6 @@
 I'm a Computer Science and Engineering Graduate. I love coding, solving problems, and I'm passionate about learning new technologies.
 
 ### 📫 How to reach me
-Email: tanbumails@gmail.com <br>
 LinkedIn: www.linkedin.com/in/anbu-thuran
 
 ### 💻 Projects
