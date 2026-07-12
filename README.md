@@ -1,4 +1,4 @@
-# Hi, I'm Anbu Thuran 👋
+# Hi, I'm Anbu Thuran
 
 ### Software Engineer | Backend Systems | Applied AI
 
