@@ -2,6 +2,8 @@
 
 ### Software Engineer | Backend Systems | Applied AI
 
+I am currently working as a Software Engineer II at SAG Aris GmBH
+
 I build scalable backend systems and AI-powered applications using **Java, Spring Boot, PostgreSQL, and Elasticsearch**.
 
 My interests include distributed systems, semantic search, agentic AI, developer tooling, system design, and building reliable software for real-world use cases.
